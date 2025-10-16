@@ -68,7 +68,7 @@
     <li>Aprendi a usar o GitHub para salvar e compartilhar meus projetos.</li>
   </ul>
 
-  <a href="https://github.com/tatahsouza" target="_blank">Meu perfil no GitHub</a>
+  <a href="https://github.com/talyapereira-Igtm" target="_blank">Meu perfil no GitHub</a>
 
   <br>
   <img src="https://via.placeholder.com/200" alt="Minha imagem de exemplo">
